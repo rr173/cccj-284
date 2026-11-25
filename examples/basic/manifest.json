@@ -1,0 +1,38 @@
+{
+  "documents": [
+    {
+      "name": "greeting",
+      "fragments": [
+        {
+          "id": "greeting-0a",
+          "path": "fragments/greeting-0a.bin"
+        },
+        {
+          "id": "greeting-0b",
+          "path": "fragments/greeting-0b.bin"
+        },
+        {
+          "id": "greeting-1a",
+          "path": "fragments/greeting-1a.bin"
+        }
+      ]
+    },
+    {
+      "name": "tibetan",
+      "fragments": [
+        {
+          "id": "tibetan-0a",
+          "path": "fragments/tibetan-0a.bin"
+        },
+        {
+          "id": "tibetan-0b",
+          "path": "fragments/tibetan-0b.bin"
+        },
+        {
+          "id": "tibetan-1a",
+          "path": "fragments/tibetan-1a.bin"
+        }
+      ]
+    }
+  ]
+}
